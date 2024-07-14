@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Derya" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Derya" alt="Typing SVG" /></a></h1>
 
 <h4 align="left">
   
-💻I am a computer programmer, currently focusing on frontend and backend, I also work on Python and C++ languages. My passion for the latest technology drives me to constantly discover new innovations and push the boundaries of what is possible in the tech world.
+💻 I am a computer programmer, currently focusing on frontend and backend, and also work with Python and C++ languages. My passion for the latest technology drives me to constantly discover new innovations and push the boundaries of what is possible in the tech world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/derya-gülmez-bba701263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  
+</p>
+
 <!-- Tech Stack -->
 <h2 align="center">Languages & Tools</h2>
 
@@ -48,6 +49,8 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" /></a>
 </div>
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
